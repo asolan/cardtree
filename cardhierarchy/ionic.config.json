@@ -1,0 +1,7 @@
+{
+  "name": "card-hierarchy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
